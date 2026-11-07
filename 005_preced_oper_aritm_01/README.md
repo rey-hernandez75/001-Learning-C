@@ -48,9 +48,9 @@ gcc -Wall -Wextra -pedantic -std=c17 -o program_name program_name.c
 
 ## Expected Output
 
-![Program Output](images/salida01_preced_oper_arit_01.png)
+![Program Output](images/salida01_preced_oper_aritm_01.png)
 
-![Program Output](images/salida02_preced_oper_arit_01.png)
+![Program Output](images/salida02_preced_oper_aritm_01.png)
 
 ---
 
