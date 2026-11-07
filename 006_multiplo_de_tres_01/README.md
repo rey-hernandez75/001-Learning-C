@@ -1,7 +1,7 @@
 # 006 - Lesson Title 
 
 006_multiplo_de_tres_01
-Using the Modulus Operator (%) to Determine Divisibility.
+Determining Whether a Number Is Divisible by 3.
 
 
 ## Objective
